@@ -1,0 +1,7 @@
+$ python hand_gesture_pipeline.py
+Traceback (most recent call last):
+  File "/workspace/scratch/1ef458904073/repos/machine-learning-project/hand_gesture_pipeline.py", line 2, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+
+exit_code=1
